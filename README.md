@@ -15,7 +15,7 @@ In this project, I deployed a static website to AWS using S3, CloudFront, and IA
 
 ![alt text](https://github.com/shimaa829/Deploy-Static-Website-On-AWS/blob/master/ScreenShots/1.png)
 
-2- Configure the bucket for website hosting:
+2- I uploaded the website files to my bucket:
 
 ![alt text](https://github.com/shimaa829/Deploy-Static-Website-On-AWS/blob/master/ScreenShots/2.png)
 
@@ -23,7 +23,7 @@ In this project, I deployed a static website to AWS using S3, CloudFront, and IA
 
 ![alt text](https://github.com/shimaa829/Deploy-Static-Website-On-AWS/blob/master/ScreenShots/3.png)
 
-4- I uploaded the website files to my bucket:
+4- Configure the bucket for website hosting:
 
 ![alt text](https://github.com/shimaa829/Deploy-Static-Website-On-AWS/blob/master/ScreenShots/4.png)
 
